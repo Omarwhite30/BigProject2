@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Football Team",
+        "passYards": 1403,
+        "completions": 129,
+        "touchdowns": 9
+    },
+    {
+        "name": "Buccaneers",
+        "passYards": 2105,
+        "completions": 186,
+        "touchdowns": 17
+    },
+    {
+        "name": "Seahawks",
+        "passYards": 1536,
+        "completions": 123,
+        "touchdowns": 12
+    },
+    {
+        "name": "49ers",
+        "passYards": 1279,
+        "completions": 103,
+        "touchdowns": 8
+    },
+    {
+        "name": "Chargers",
+        "passYards": 1771,
+        "completions": 161,
+        "touchdowns": 14
+    },
+    {
+        "name": "Steelers",
+        "passYards": 1515,
+        "completions": 153,
+        "touchdowns": 7
+    },
+    {
+        "name": "Cardinals",
+        "passYards": 1741,
+        "completions": 144,
+        "touchdowns": 14
+    },
+    {
+        "name": "Eagles",
+        "passYards": 1480,
+        "completions": 130,
+        "touchdowns": 8
+    },
+    {
+        "name": "Jets",
+        "passYards": 1117,
+        "completions": 98,
+        "touchdowns": 4
+    },
+    {
+        "name": "Giants",
+        "passYards": 1720,
+        "completions": 146,
+        "touchdowns": 5
+    },
+    {
+        "name": "Saints",
+        "passYards": 904,
+        "completions": 73,
+        "touchdowns": 12
+    },
+    {
+        "name": "Patriots",
+        "passYards": 1517,
+        "completions": 152,
+        "touchdowns": 7
+    },
+    {
+        "name": "Vikings",
+        "passYards": 1780,
+        "completions": 167,
+        "touchdowns": 13
+    },
+    {
+        "name": "Dolphins",
+        "passYards": 1427,
+        "completions": 154,
+        "touchdowns": 7
+    },
+    {
+        "name": "Raiders",
+        "passYards": 1946,
+        "completions": 149,
+        "touchdowns": 10
+    },
+    {
+        "name": "Rams",
+        "passYards": 1838,
+        "completions": 139,
+        "touchdowns": 16
+    },
+    {
+        "name": "Chiefs",
+        "passYards": 1887,
+        "completions": 167,
+        "touchdowns": 18
+    },
+    {
+        "name": "Jaguars",
+        "passYards": 1465,
+        "completions": 129,
+        "touchdowns": 7
+    },
+    {
+        "name": "Colts",
+        "passYards": 1570,
+        "completions": 126,
+        "touchdowns": 9
+    },
+    {
+        "name": "Texans",
+        "passYards": 1328,
+        "completions": 119,
+        "touchdowns": 8
+    },
+    {
+        "name": "Titans",
+        "passYards": 1473,
+        "completions": 129,
+        "touchdowns": 6
+    },
+    {
+        "name": "Packers",
+        "passYards": 1504,
+        "completions": 129,
+        "touchdowns": 12
+    },
+    {
+        "name": "Lions",
+        "passYards": 1505,
+        "completions": 159,
+        "touchdowns": 7
+    },
+    {
+        "name": "Broncos",
+        "passYards": 1627,
+        "completions": 151,
+        "touchdowns": 10
+    },
+    {
+        "name": "Cowboys",
+        "passYards": 1835,
+        "completions": 159,
+        "touchdowns": 16
+    },
+    {
+        "name": "Browns",
+        "passYards": 1480,
+        "completions": 117,
+        "touchdowns": 6
+    },
+    {
+        "name": "Bengals",
+        "passYards": 1547,
+        "completions": 124,
+        "touchdowns": 15
+    },
+    {
+        "name": "Bears",
+        "passYards": 902,
+        "completions": 90,
+        "touchdowns": 3
+    },
+    {
+        "name": "Panthers",
+        "passYards": 1573,
+        "completions": 137,
+        "touchdowns": 7
+    },
+    {
+        "name": "Bills",
+        "passYards": 1732,
+        "completions": 151,
+        "touchdowns": 15
+    },
+    {
+        "name": "Ravens",
+        "passYards": 1686,
+        "completions": 131,
+        "touchdowns": 9
+    },
+    {
+        "name": "Falcons",
+        "passYards": 1332,
+        "completions": 141,
+        "touchdowns": 10
+    }
+]

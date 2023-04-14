@@ -1,0 +1,194 @@
+[
+    {
+      "name": "Jacksonville Jaguars",
+      "wins": 1,
+      "losses": 15,
+      "winRatePercentage": 0.063
+    },
+    {
+      "name": "New York Jets",
+      "wins": 2,
+      "losses": 14,
+      "winRatePercentage": 0.125
+    },
+    {
+      "name": "Atlanta Falcons",
+      "wins": 4,
+      "losses": 12,
+      "winRatePercentage": 0.25
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "wins": 4,
+      "losses": 11,
+      "winRatePercentage": 0.281
+    },
+    {
+      "name": "Houston Texans",
+      "wins": 4,
+      "losses": 12,
+      "winRatePercentage": 0.25
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "wins": 4,
+      "losses": 11,
+      "winRatePercentage": 0.281
+    },
+    {
+      "name": "Carolina Panthers",
+      "wins": 5,
+      "losses": 11,
+      "winRatePercentage": 0.313
+    },
+    {
+      "name": "Denver Broncos",
+      "wins": 5,
+      "losses": 11,
+      "winRatePercentage": 0.313
+    },
+    {
+      "name": "Detroit Lions",
+      "wins": 5,
+      "losses": 11,
+      "winRatePercentage": 0.313
+    },
+    {
+      "name": "Dallas Cowboys",
+      "wins": 6,
+      "losses": 10,
+      "winRatePercentage": 0.375
+    },
+    {
+      "name": "New York Giants",
+      "wins": 6,
+      "losses": 10,
+      "winRatePercentage": 0.375
+    },
+    {
+      "name": "San Francisco 49ers",
+      "wins": 6,
+      "losses": 10,
+      "winRatePercentage": 0.375
+    },
+    {
+      "name": "Los Angeles Chargers",
+      "wins": 7,
+      "losses": 9,
+      "winRatePercentage": 0.438
+    },
+    {
+      "name": "Minnesota Vikings",
+      "wins": 7,
+      "losses": 9,
+      "winRatePercentage": 0.438
+    },
+    {
+      "name": "New England Patriots",
+      "wins": 7,
+      "losses": 9,
+      "winRatePercentage": 0.438
+    },
+    {
+      "name": "Washington Football Team xz",
+      "wins": 7,
+      "losses": 9,
+      "winRatePercentage": 0.438
+    },
+    {
+      "name": "Arizona Cardinals",
+      "wins": 8,
+      "losses": 8,
+      "winRatePercentage": 0.5
+    },
+    {
+      "name": "Chicago Bears xy",
+      "wins": 8,
+      "losses": 8,
+      "winRatePercentage": 0.5
+    },
+    {
+      "name": "Las Vegas Raiders",
+      "wins": 8,
+      "losses": 8,
+      "winRatePercentage": 0.5
+    },
+    {
+      "name": "Los Angeles Rams xy",
+      "wins": 10,
+      "losses": 6,
+      "winRatePercentage": 0.625
+    },
+    {
+      "name": "Miami Dolphins",
+      "wins": 10,
+      "losses": 6,
+      "winRatePercentage": 0.625
+    },
+    {
+      "name": "Baltimore Ravens xy",
+      "wins": 11,
+      "losses": 5,
+      "winRatePercentage": 0.688
+    },
+    {
+      "name": "Cleveland Browns xy",
+      "wins": 11,
+      "losses": 5,
+      "winRatePercentage": 0.688
+    },
+    {
+      "name": "Indianapolis Colts xy",
+      "wins": 11,
+      "losses": 5,
+      "winRatePercentage": 0.688
+    },
+    {
+      "name": "Tampa Bay Buccaneers xy",
+      "wins": 11,
+      "losses": 5,
+      "winRatePercentage": 0.688
+    },
+    {
+      "name": "Tennessee Titans xz",
+      "wins": 11,
+      "losses": 5,
+      "winRatePercentage": 0.688
+    },
+    {
+      "name": "New Orleans Saints xz",
+      "wins": 12,
+      "losses": 4,
+      "winRatePercentage": 0.75
+    },
+    {
+      "name": "Pittsburgh Steelers xz",
+      "wins": 12,
+      "losses": 4,
+      "winRatePercentage": 0.75
+    },
+    {
+      "name": "Seattle Seahawks xz",
+      "wins": 12,
+      "losses": 4,
+      "winRatePercentage": 0.75
+    },
+    {
+      "name": "Buffalo Bills xz",
+      "wins": 13,
+      "losses": 3,
+      "winRatePercentage": 0.813
+    },
+    {
+      "name": "Green Bay Packers xz*",
+      "wins": 13,
+      "losses": 3,
+      "winRatePercentage": 0.813
+    },
+    {
+      "name": "Kansas City Chiefs xz*",
+      "wins": 14,
+      "losses": 2,
+      "winRatePercentage": 0.875
+    }
+  ]
